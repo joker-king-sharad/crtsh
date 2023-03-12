@@ -5,7 +5,7 @@ A Python utility to fetch or would say scrap subdomains from https://crt.sh
 ```
 argparse
 requests
-json
+
 ```
 
 ### Installation
